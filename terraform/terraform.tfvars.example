@@ -1,0 +1,5 @@
+github_repository   = "https://github.com/YOUR_USERNAME/amplify-spa-demo"
+github_access_token = "ghp_your_actual_token_here"
+app_name           = "my-spa-demo"
+branch_name        = "main"
+# custom_domain    = "yourdomain.com"  # Uncomment if you have a custom domain
