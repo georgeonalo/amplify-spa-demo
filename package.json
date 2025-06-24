@@ -16,7 +16,7 @@
     "terraform",
     "portfolio"
   ],
-  "author": "Your Name",
+  "author": "George",
   "license": "MIT",
   "devDependencies": {
     "serve": "^14.2.1"
