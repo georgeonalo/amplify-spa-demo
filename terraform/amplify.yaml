@@ -1,0 +1,16 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - npm install
+    build:
+      commands:
+        - echo "Frontend build placeholder" # Replace with your actual build command (e.g., `npm run build`)
+  artifacts:
+    baseDirectory: /dist  # Update if your build outputs elsewhere
+    files:
+      - '**/*'
+  cache:
+    paths:
+      - node_modules/**/*
